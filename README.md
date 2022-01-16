@@ -18,9 +18,9 @@ Permite Consultar:
   <li>Viagens
     <ul>
       <li>Datas</li>
-      <li>Viajantes</li> 
-      <li>Despesas</li>
+      <li>Viajantes</li>       
       <li>Servicos</li>
+      <li>Cotações</li>
       <li>Logs</li>            
     </ul>
   </li>  
