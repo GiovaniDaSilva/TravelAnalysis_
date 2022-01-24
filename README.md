@@ -27,7 +27,7 @@ Permite Consultar:
   
    <li>Consultas Personalizadas
       <ul>
-          <li>Permite cadastrar consultas personalizadas e executar junto com a consulta de dados</li>
+          <li>Permite cadastrar consultas personalizadas e executar junto com a consulta de relatórios</li>
       </ul>
    </li>  
 </ul>
