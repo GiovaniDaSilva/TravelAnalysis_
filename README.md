@@ -24,6 +24,10 @@ Permite Consultar:
       <li>Logs</li>            
     </ul>
   </li>  
+  
+   <li>Consultas Personalizadas
+     <li>Permite cadastrar consultas personalizadas e executar junto com a consulta de relatórios</li>
+   </li>  
 </ul>
 
 
