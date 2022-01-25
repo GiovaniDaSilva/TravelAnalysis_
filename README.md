@@ -35,4 +35,5 @@ Permite Consultar:
 
 <img src="https://github.com/GiovaniDaSilva/TravelAnalysis_/blob/main/Images/Menu.png">
 <img src="https://github.com/GiovaniDaSilva/TravelAnalysis_/blob/main/Images/Consulta.png">
+<img src="https://github.com/GiovaniDaSilva/TravelAnalysis_/blob/main/Images/Consulta%20Personalizada.png">
 <img src="https://github.com/GiovaniDaSilva/TravelAnalysis_/blob/main/Images/Configura%C3%A7%C3%A3o.png">
