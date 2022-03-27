@@ -11,6 +11,9 @@ Permite Consultar:
   <li>Clientes
     <ul>
       <li>Feature</li>
+      <li>Agencia</li>
+      <li>Credencial</li>
+      <li>Configurações de Módulos</li>
       <li>Status da base</li>      
     </ul>
   </li>
